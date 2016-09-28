@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_84e030ec15d6e7c99944c5290196e7ff5e8a87dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_b3172e116b0e2a1d878a16a78f8306f032923c87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8bb4053a73ede46907479b46d778d02c022a85f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f82ea547f69fb922bbf2ef3ef90aa36a13917e86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_647a01388bd0a6c3116bd1b629111f7b69d62123/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_e03db48f4520a22714615e50aec3f244423ae276/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/Downloads/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_39c8c4fab3467ebadf6204625a3220b9bace379b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_d79f4efe82b68384c2ae7403f51133ef4cb9e0f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_f25a1fda36e43fca16ced785e182cf1cfb7137e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_175a00b421035270691511e681cb6f41b7ec7e98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_8f4e9c20c066f41ea59200422b6558c88dad5ea7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_79368f3bc2e34f9a555c440e99499dda651be1b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="efcef0931c7510da39f5c1cdd1f6deadf62aed3a">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_47709baeea8e87386fbfea2eeffb02115527fc56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_0215ef612203f9c40dfa13bf1d557039d942bc4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_003009d9e40027f26718fa2396fc689cc4add670/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e978c4b5c2861183bf2daf087a2e8b2e009b0fb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_bbca95d97cfc0d1d5507b7c978068c5acd660abc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e48e2fd0986a777cdbf9becb04e33abcc4577d85">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_855095868324783a40756319f5f4fbfc2a0d4237/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_a1d4e24033a2b75e0a690800ed22b1c27d677dce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_e93c405c29d92f40d24c18c99721a93b20c94e28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_2ebfe8c25aee2aa0b76c3d871d80e909f55fd7c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8506eecb184149720c19c13436c75c0a3ce49da2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_2bbb2fd439f307d036e27c20672b812021d8a9e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_4283b1ab4354f3bbffb16a93199c4ebc8e16164c/classes.dex" />
+    </item>
+
+</items>

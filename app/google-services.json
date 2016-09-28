@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "133520258709",
+    "firebase_url": "https://ticketplanner-eef8a.firebaseio.com",
+    "project_id": "ticketplanner-eef8a",
+    "storage_bucket": "ticketplanner-eef8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133520258709:android:887e6a12fe109d1e",
+        "android_client_info": {
+          "package_name": "com.sr.ticketPlanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133520258709-ejg0u1n9pnq11uso869lcvhqpvkcsot7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjLhb_4v1OAwNyLDhNdbVKgDr0OYJBQL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+#Wed Sep 21 11:47:30 IST 2016
+base.0=/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_47709baeea8e87386fbfea2eeffb02115527fc56
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_855095868324783a40756319f5f4fbfc2a0d4237/classes.dex
+base.1=/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_855095868324783a40756319f5f4fbfc2a0d4237
+file.0=/home/sathishsr/FrameWork/Scheduler/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_47709baeea8e87386fbfea2eeffb02115527fc56/classes.dex
